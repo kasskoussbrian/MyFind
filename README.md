@@ -1,4 +1,4 @@
-How to the project:
+How to run the project:
 -
 Enter the myfind directory and run make . <br />
 
