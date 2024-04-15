@@ -8,7 +8,7 @@ This is the typical usecase  :
 
 
 
-These are the options implement in this project : 
+These are the options implemented in this project : 
 -
 -print :
 prints the path of the currently examined file. It always returns true<br />
